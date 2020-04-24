@@ -90,7 +90,12 @@ h3 {
     padding: 5px;
     margin-right: 740px;
     margin-top: -40px;
-}  
+
+}
+
+a{
+    color: black;
+}
 
 h3:hover{
     background-color: indianred;
